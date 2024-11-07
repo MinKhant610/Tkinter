@@ -1,0 +1,11 @@
+frame ->
+        height, width, padding, relief
+relief -> border
+        flat(no border),
+        raise
+        sunken
+        solid 
+        ridge
+        groove
+
+
