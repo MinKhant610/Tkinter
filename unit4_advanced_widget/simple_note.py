@@ -4,6 +4,7 @@ from tkinter import ttk
 class App:
     def __init__(self, master):
         self.master = master 
+        self.master.title('Note')
         self.textArea()
         self.hilightBtn()
         self.hilightRemoveBtn()
