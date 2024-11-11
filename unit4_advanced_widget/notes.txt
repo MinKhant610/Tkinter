@@ -1,0 +1,5 @@
+active -> hover effect
+disabled -> readonly
+focous -> alternate
+pressed -> click
+selected -> hover
