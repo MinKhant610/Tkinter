@@ -1,0 +1,27 @@
+Keyboard Event 
+==============
+<Key> <KeyPress> => any key 
+<KeyPress-Delete> => User Press Delete Key 
+<KeyRelease-Right> => User Release Right Arrow Key
+<space>, <less> => User pressed a "print able" key 
+<Shift_L>, <Control_R>, <F5> => user pressed a special key
+<Return> => Enter Key 
+<Contrl-Alt-Next> => control + alt + page down key 
+
+Mouse Event 
+===========
+left click = 1, wheel = 3, right click = 2
+Click-Related
+-------------
+<Button>, <ButtonPress> => Any button was pressed 
+<Button-1>, <ButtonPress-1>, <1> => Button 1 was pressed
+<ButtonRelease-1> => Button 1 was released 
+<Double-Button-1> or <Triple-Button-1> => Button 1 was double or triple click 
+
+Movement-Related
+----------------
+<Enter> => Mouse entered widget area 
+<Leave> => Mouse left widget area 
+<Motion> => Mouse was moved 
+<B1-Motion> => Mouse move with b1 held down (press left click and move)
+
